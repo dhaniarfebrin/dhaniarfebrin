@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me:
-        - Instagram: @holyfebrn
-        - LinkedIn: dhaniar
-        - Twitter: @DhaniarFebrin
-        - Email: dhaniarfebrinwahyudi@gmail.com
+  - Instagram: @holyfebrn
+  - LinkedIn: dhaniar
+  - Twitter: @DhaniarFebrin
+  - Email: dhaniarfebrinwahyudi@gmail.com
 
 <!--
 **dhaniarfebrin/dhaniarfebrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
