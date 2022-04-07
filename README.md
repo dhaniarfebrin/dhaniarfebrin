@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me:
   - Instagram: @holyfebrn
-  - LinkedIn: linkedin.com/in/dhaniar
+  - LinkedIn: www.linkedin.com/in/dhaniar
   - Twitter: @DhaniarFebrin
   - Email: dhaniarfebrinwahyudi@gmail.com
 
