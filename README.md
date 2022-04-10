@@ -17,8 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaniarfebrin&show_icons=true&locale=en&layout=compact" alt="dhaniarfebrin" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhaniarfebrin&show_icons=true&locale=en" alt="dhaniarfebrin" /></p>
-
+-->
 
 
 <!-- # Hi, there. I'm Dhaniar Febrin 👋
