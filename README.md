@@ -1,7 +1,7 @@
 <h1 align="center">Hi, there 👋. I'm Dhaniar Febrin</h1>
 <h3 align="center">I am enthusiastic software developer. I am an informatics student at Amikom Yogyakarta University falcuty of computer science</h3>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Modern Architecture of Web App Structure.**
 
 - 📫 How to reach me **dhaniarfebrinwahyudi@gmail.com**
 
